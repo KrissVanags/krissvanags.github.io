@@ -1,0 +1,5 @@
+Little Wings was an interactive picture book for children on iOS and Android.
+I was the programmer for the project, completing work with one artist.
+The book was a story with elements on each page that could be tapped to trigger specific animations.
+One of the primary features was to allow the recording of voice tracks on the device to be played back instead of the built in recorded tracks.
+This would allow parents to in essence read the book to the child when they were not present.

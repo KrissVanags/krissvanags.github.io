@@ -1,0 +1,4 @@
+Buy Somewhere was the product for the last company I was working at.
+It provided a pokemon go style experience with being able to purchase property and having custom buildings instead of a flat map.
+I was brought in as a Frontend Developer to help with the gameplay and system design of the product.
+My main focus was on developing the user experience and gameplay elements along with assisiting in building the art pipeline and proccedural generation.

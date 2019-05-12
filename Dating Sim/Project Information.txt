@@ -1,0 +1,4 @@
+This was a contract to make a tool for a 2D dating sim game.
+It was setup with scenes and characters being the main building blocks.
+Scenes would contain the characters and background having them move around conversation points.
+Characters contained their personal information and different sprites for different emotions.

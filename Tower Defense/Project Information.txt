@@ -1,0 +1,2 @@
+This project was to be a sold asset on the Unity Asset Store which people could build out a tower defense game with their own assets to be sold.
+Everything of the game was modular an customisable with a focus on usability, all functionality could be done quickly and without any coding knowledge.
